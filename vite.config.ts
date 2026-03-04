@@ -10,6 +10,8 @@ const __dirname = path.dirname(__filename);
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/Morse_Code_Translator_TS-React-Tailwind/",
+  
   plugins: [react(), tailwindcss(), viteSingleFile()],
   resolve: {
     alias: {
