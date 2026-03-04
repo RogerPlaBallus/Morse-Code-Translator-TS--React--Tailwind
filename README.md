@@ -2,6 +2,8 @@
 
 A minimalistic web app that translates text into Morse code in real time and plays it back as audio with adjustable volume.
 
+https://rogerplaballus.github.io/Morse_Code_Translator_TS-React-Tailwind/
+
 ## Features
 
 - **Real-time translation** — Morse code output updates instantly as you type
